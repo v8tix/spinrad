@@ -1,4 +1,4 @@
-FROM v8tix/cronov:0.0.1.v20200308.9f530e9
+FROM v8tix/cronov:0.0.2.v20200309.f9ae56c
 LABEL MAINTAINER="V8TIX"
 LABEL MAIL="info@v8tix.com"
 RUN ["/bin/bash", "-c", "mkdir /usr/lib/jvm"]
